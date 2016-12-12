@@ -11,6 +11,9 @@ package com.example.student.musicplayer;
         import android.widget.SeekBar;
         import android.widget.TextView;
         import android.widget.Toast;
+
+        import com.example.sairamkrishna.myapplication.R;
+
         import java.util.concurrent.TimeUnit;
 
 
